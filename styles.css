@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif
+}
+h1{
+    font-weight: 400;
+    font-size: 30px;
+    text-align:center;
+    color: white;
+    background-color: black;
+}
+a{
+   font-weight:100;
+   font-size:22px; 
+   text-decoration: none;
+   color: black;
+   display:block;
+}
